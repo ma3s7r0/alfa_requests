@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "title": "schnupf",
+      "author": "Schnupfer",
+      "id": 2
+    },
+    {
+      "title": "meine Lebensgeschichte",
+      "author": "du",
+      "id": 3
+    },
+    {
+      "title": "meine Lebensgeschichte",
+      "author": "du",
+      "id": 4
+    },
+    {
+      "title": "Tiddel",
+      "author": "alle zusammen",
+      "id": 5
+    },
+    {
+      "title": "meine Lebensgeschichte",
+      "author": "du",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
